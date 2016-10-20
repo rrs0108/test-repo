@@ -1,0 +1,7 @@
+{'auth':
+        {'tenantName': 'sw_teimdm',
+            'passwordCredentials': {
+                'username': 'sw_teimdm',
+                'password': 'teimdm'}
+                }
+        }
